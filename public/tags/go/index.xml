@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>go on Docs Demo</title>
+    <link>http://localhost:8088/tags/go/</link>
+    <description>Recent content in go on Docs Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 12 Apr 2020 17:35:07 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:8088/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>go</title>
+      <link>http://localhost:8088/ht/2020-04-12t173507/</link>
+      <pubDate>Sun, 12 Apr 2020 17:35:07 +0800</pubDate>
+      
+      <guid>http://localhost:8088/ht/2020-04-12t173507/</guid>
+      <description>子标题 1 正文&amp;hellip;
+子标题 2 正文&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
